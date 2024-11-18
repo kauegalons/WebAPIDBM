@@ -1,0 +1,16 @@
+﻿@model Produto
+
+<h1>Editar Produto</h1>
+<form method="post" asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <label>Nome:</label>
+    <input asp-for="Nome" />
+    <br />
+    <label>Preço:</label>
+    <input asp-for="Preco" />
+    <br />
+    <label>Estoque:</label>
+    <input asp-for="Estoque" />
+    <br />
+    <button type="submit">Salvar</button>
+</form>

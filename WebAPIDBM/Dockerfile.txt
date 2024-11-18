@@ -1,0 +1,30 @@
+# Usando a imagem base do .NET para aplicações em tempo de execução
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+# Usando a imagem base do .NET para compilar e publicar o código
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+# Copiando o arquivo de projeto para o container e restaurando as dependências
+COPY WebAPIDBM/WebAPIDBM.csproj WebAPIDBM/
+RUN dotnet restore WebAPIDBM/WebAPIDBM.csproj
+
+# Copia todo o código da solução para o container
+COPY . .
+
+# Compilando o projeto
+WORKDIR /src/WebAPIDBM
+RUN dotnet build -c Release -o /app/build
+
+# Publica a aplicação em uma pasta pronta para execução
+FROM build AS publish
+RUN dotnet publish -c Release -o /app/publish
+
+# Configura a imagem final para rodar a aplicação
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "WebAPIDBM.dll"]

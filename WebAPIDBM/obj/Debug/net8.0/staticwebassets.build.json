@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2MPGbvGYKqLT91xS0gN6bBUEhglGu0yB5lNJAMBq3i8=",
+  "Source": "WebAPIDBM",
+  "BasePath": "_content/WebAPIDBM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

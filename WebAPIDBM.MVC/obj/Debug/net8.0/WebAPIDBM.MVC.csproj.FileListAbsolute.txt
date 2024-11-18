@@ -1,0 +1,9 @@
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.csproj.AssemblyReference.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.AssemblyInfoInputs.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.AssemblyInfo.cs
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.RazorAssemblyInfo.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.MVC\obj\Debug\net8.0\WebAPIDBM.MVC.RazorAssemblyInfo.cs

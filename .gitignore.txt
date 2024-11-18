@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.pfx
+*.publishsettings
+
+# Visual Studio Code
+.vscode/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ssets/
+[Bb]in/
+[Oo]bj/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Dependency Directories
+node_modules/
+packages/
+
+# JetBrains IDEs
+.idea/
+*.sln.iml
+
+# OS-generated Files
+Thumbs.db
+.DS_Store
+*.swp
+
+# Configuration
+appsettings.json
+appsettings.*.json
+
+# Secrets (add sensitive files here)
+*.secret

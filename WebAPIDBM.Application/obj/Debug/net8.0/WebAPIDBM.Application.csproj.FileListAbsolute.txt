@@ -1,0 +1,16 @@
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\bin\Debug\net8.0\CoverletSourceRootsMapping_WebAPIDBM.Application
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\bin\Debug\net8.0\WebAPIDBM.Application.deps.json
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\bin\Debug\net8.0\WebAPIDBM.Application.dll
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\bin\Debug\net8.0\WebAPIDBM.Application.pdb
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\bin\Debug\net8.0\WebAPIDBM.Domain.dll
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\bin\Debug\net8.0\WebAPIDBM.Domain.pdb
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.csproj.AssemblyReference.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.AssemblyInfoInputs.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.AssemblyInfo.cs
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.csproj.CoreCompileInputs.cache
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDB.7B2A7828.Up2Date
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.dll
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\refint\WebAPIDBM.Application.dll
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\WebAPIDBM.Application.pdb
+C:\Users\Roberta\source\repos\WebAPIDBM\WebAPIDBM.Application\obj\Debug\net8.0\ref\WebAPIDBM.Application.dll
